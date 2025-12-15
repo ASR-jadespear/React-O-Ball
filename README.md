@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React-O-Ball
 
 **React-O-Ball** is a dynamic, elemental brick-breaker game built with C++ and Raylib. It reimagines the classic breakout genre by introducing elemental physics, a unique text-based level generator, and a chaotic "Pinball Mode" that transforms the gameplay mechanics in real-time.
@@ -110,5 +110,4 @@ This project is designed for the **Raylib C++ Starter Template for VSCode**.
 
 
 =======
-## Hello
->>>>>>> a899ee2c8e5809eb7ffe38114ceb1893dd5e996e
+
